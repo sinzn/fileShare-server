@@ -4,3 +4,7 @@ This repo is store the code of password protected file share server creating two
 ## Dependency should install on server
 npm init -y <br>
 npm i bcrypt dotenv ejs express multer mysql2 <br>
+
+
+for mysql config refer to mysql 
+sudo apt install mysql-server
